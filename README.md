@@ -1,6 +1,9 @@
 ### Hi there 👋, my name is Tonmoy 
-[![HitCount](https://hits.dwyl.com/tonutonmoy/tonutonmoy.svg?style=flat-square)](http://hits.dwyl.com/tonutonmoy/tonutonmoy)
+
 #### A passionate MERN Stack developer 
+
+[![HitCount](https://hits.dwyl.com/tonutonmoy/tonutonmoy.svg?style=flat-square)](http://hits.dwyl.com/tonutonmoy/tonutonmoy)
+
 <img src='https://i.ibb.co/L8NpWw3/DSC06842-11zon.jpg'  height='700px'>
 
 "Hello, I'm [Your Name], a web developer with a strong focus on React and related technologies. I have a deep passion for developing interactive, dynamic web applications that engage and inspire users. React's versatility and power to create seamless, user-friendly interfaces have been at the core of my journey.
