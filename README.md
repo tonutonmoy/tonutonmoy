@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Tonmoy
+### Hi there 👋, my name is Tonmoy  [![HitCount](https://hits.dwyl.com/tonutonmoy/tonutonmoy.svg?style=flat-square)](http://hits.dwyl.com/tonutonmoy/tonutonmoy)
 #### A passionate MERN Stack developer 
 <img src='https://i.ibb.co/L8NpWw3/DSC06842-11zon.jpg'  height='700px'>
 
@@ -31,5 +31,5 @@ Skills: HTML/CSS/Bootstrap/JS/ REACT / FIREBASE/ EXPRESS.JS/ MONGODB
 
 ![GitHub metrics](https://metrics.lecoq.io/https://github.com/tonutonmoy)  
 
-![Profile views](https://gpvc.arturio.dev/https://github.com/tonutonmoy)  
-  [![HitCount](https://hits.dwyl.com/tonutonmoy/tonutonmoy.svg?style=flat-square)](http://hits.dwyl.com/tonutonmoy/tonutonmoy)
+
+ 
