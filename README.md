@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Tonmoy
+## Hi there 👋, my name is Tonmoy
 #### A passionate MERN Stack developer 
 <img src='https://i.ibb.co/L8NpWw3/DSC06842-11zon.jpg'  height='700px'>
 
