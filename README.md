@@ -32,3 +32,4 @@ Skills: HTML/CSS/Bootstrap/JS/ REACT / FIREBASE/ EXPRESS.JS/ MONGODB
 ![GitHub metrics](https://metrics.lecoq.io/https://github.com/tonutonmoy)  
 
 ![Profile views](https://gpvc.arturio.dev/https://github.com/tonutonmoy)  
+  [![HitCount](https://hits.dwyl.com/tonutonmoy/tonutonmoy.svg?style=flat-square)](http://hits.dwyl.com/tonutonmoy/tonutonmoy)
