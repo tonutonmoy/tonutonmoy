@@ -6,13 +6,13 @@
 
 <img src='https://i.ibb.co/L8NpWw3/DSC06842-11zon.jpg'  height='700px'>
 
-"Hello, I'm [Your Name], a web developer with a strong focus on React and related technologies. I have a deep passion for developing interactive, dynamic web applications that engage and inspire users. React's versatility and power to create seamless, user-friendly interfaces have been at the core of my journey.
+"Hello, I'm Showmic Arifen Tonmoy, a web developer with a strong focus on React and related technologies. I have a deep passion for developing interactive, dynamic web applications that engage and inspire users. React's versatility and power to create seamless, user-friendly interfaces have been at the core of my journey.
 
 My experience in the field has been marked by a commitment to crafting applications that not only look great but also provide exceptional user experiences. I constantly explore the latest tools and best practices to enhance the performance and efficiency of my projects.
 
 I'm a firm believer in the value of collaboration and open-source contributions. I'm here to connect with fellow developers, work on exciting projects, and make meaningful contributions to the web development community."
 
-Skills: HTML/CSS/Bootstrap/JS/ REACT / FIREBASE/ EXPRESS.JS/ MONGODB
+Skills: HTML/CSS/Bootstrap/ TAILWIND/ JAVACRIPT/ REACT / FIREBASE/ NODE.JS/ EXPRESS.JS/ MONGODB/ MONGOOSE
 
 - 🔭 I’m currently working on https://book-verse-endcoders.netlify.app/  
 - 🌱 I’m currently learning MERN stack technology  
