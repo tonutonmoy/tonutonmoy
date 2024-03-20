@@ -4,7 +4,7 @@
 
 [![HitCount](https://hits.dwyl.com/tonutonmoy/tonutonmoy.svg?style=flat-square)](http://hits.dwyl.com/tonutonmoy/tonutonmoy)
 
-<img src="https://i.ibb.co/44Dtbht/DSC06842-11zon.jpg" alt="DSC06842-11zon" border="0" heigh='100' />
+<img src="https://i.ibb.co/44Dtbht/DSC06842-11zon.jpg" alt="DSC06842-11zon" border="0" height='700' />
 
 "Hello, I'm Showmic Arifen Tonmoy, a web developer with a strong focus on React and related technologies. I have a deep passion for developing interactive, dynamic web applications that engage and inspire users. React's versatility and power to create seamless, user-friendly interfaces have been at the core of my journey.
 
