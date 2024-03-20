@@ -12,7 +12,7 @@ My experience in the field has been marked by a commitment to crafting applicati
 
 I'm a firm believer in the value of collaboration and open-source contributions. I'm here to connect with fellow developers, work on exciting projects, and make meaningful contributions to the web development community."
 
-Skills: HTML/CSS/Bootstrap/ TAILWIND/ JAVACRIPT/ REACT / FIREBASE/ NODE.JS/ EXPRESS.JS/ MONGODB/ MONGOOSE
+Skills: HTML/CSS/Bootstrap/ TAILWIND/ JAVACRIPT/ REACT / FIREBASE/ NODE.JS/ EXPRESS.JS/ MONGODB/ MONGOOSE/ PostgreSQL/ Prisma
 
 - 🔭 I’m currently working on https://book-verse-endcoders.netlify.app/  
 - 🌱 I’m currently learning MERN stack technology  
