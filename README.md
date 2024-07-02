@@ -15,7 +15,13 @@ I'm a firm believer in the value of collaboration and open-source contributions.
 Skills: HTML/CSS/Bootstrap/ TAILWIND/ JAVACRIPT/ REACT / FIREBASE/ NODE.JS/ EXPRESS.JS/ MONGODB/ MONGOOSE/ PostgreSQL/ Prisma
 
 <h3 align="left">Skills:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://res.cloudinary.com/dfms3ialq/image/upload/v1719654049/sxbzxkj8si1meajcsywo.png" alt="android" width="40" height="40"/> </a>  </p>
+<p align="left"> 
+ <img src="https://res.cloudinary.com/dfms3ialq/image/upload/v1719654049/sxbzxkj8si1meajcsywo.png" alt="android" width="40" height="40"/> 
+  <img src="https://res.cloudinary.com/dfms3ialq/image/upload/v1719654056/zeed0rjhzrmh9xgxcwn4.png" alt="android" width="40" height="40"/> 
+
+
+
+</p>
 
 
 - 🔭 I’m currently working on https://book-verse-endcoders.netlify.app/  
