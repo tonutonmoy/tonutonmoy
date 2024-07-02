@@ -38,7 +38,7 @@ I'm a firm believer in the value of collaboration and open-source contributions.
 </p>
 
 
-- 🔭 I’m currently working on https://book-verse-endcoders.netlify.app/  
+
 
 
 
