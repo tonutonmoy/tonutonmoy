@@ -26,11 +26,11 @@ Skills: HTML/CSS/Bootstrap/ TAILWIND/ JAVACRIPT/ REACT / FIREBASE/ NODE.JS/ EXPR
   <img src="http://res.cloudinary.com/dfms3ialq/image/upload/v1719654276/khv0wttwcacfpwlu9ii4.png" alt="NodeJS" width="40" height="40"/> 
   <img src="http://res.cloudinary.com/dfms3ialq/image/upload/v1719654312/qjnuyc5reenn7wqbml3i.png" alt="ExpressJS" width="40" height="40"/> 
   <img src="http://res.cloudinary.com/dfms3ialq/image/upload/v1719654389/v30bwoukwfuch8ynqttr.png" alt="MongoDB" width="40" height="40"/> 
-  <img src="http://res.cloudinary.com/dfms3ialq/image/upload/v1719654420/qqd6dhgd8ci6gsiiik9k.png" alt="Mongoose" width="40" height="40"/> 
+  <img src="http://res.cloudinary.com/dfms3ialq/image/upload/v1719654420/qqd6dhgd8ci6gsiiik9k.png" alt="Mongoose" width="60" height="40"/> 
   <img src="http://res.cloudinary.com/dfms3ialq/image/upload/v1719654477/bje1fozcfw1nn0eu3xrt.png" alt="Typescript" width="40" height="40"/> 
   <img src="http://res.cloudinary.com/dfms3ialq/image/upload/v1719654496/njx8jsohegugevckrn9j.png" alt="Redux" width="40" height="40"/> 
   <img src="http://res.cloudinary.com/dfms3ialq/image/upload/v1719654534/ldwflooio3cogbpfxnp0.png" alt="PostgreSQL" width="40" height="40"/> 
-  <img src="http://res.cloudinary.com/dfms3ialq/image/upload/v1719654560/kwnpkg3m01dtohdjk3rn.png" alt="Prosma" width="40" height="40"/> 
+  <img src="http://res.cloudinary.com/dfms3ialq/image/upload/v1719654560/kwnpkg3m01dtohdjk3rn.png" alt="Prosma" width="60" height="40"/> 
   <img src="http://res.cloudinary.com/dfms3ialq/image/upload/v1719654842/eg0ytwczoxzyakk77rym.png" alt="NextJS" width="40" height="40"/> 
 
 
