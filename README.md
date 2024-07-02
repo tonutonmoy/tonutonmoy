@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Tonmoy 
 
-#### A passionate MERN Stack developer 
+#### A passionate Full Stack developer 
 
 [![HitCount](https://hits.dwyl.com/tonutonmoy/tonutonmoy.svg?style=flat-square)](http://hits.dwyl.com/tonutonmoy/tonutonmoy)
 
@@ -13,6 +13,10 @@ My experience in the field has been marked by a commitment to crafting applicati
 I'm a firm believer in the value of collaboration and open-source contributions. I'm here to connect with fellow developers, work on exciting projects, and make meaningful contributions to the web development community."
 
 Skills: HTML/CSS/Bootstrap/ TAILWIND/ JAVACRIPT/ REACT / FIREBASE/ NODE.JS/ EXPRESS.JS/ MONGODB/ MONGOOSE/ PostgreSQL/ Prisma
+
+<h3 align="left">Skills:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>  </p>
+
 
 - 🔭 I’m currently working on https://book-verse-endcoders.netlify.app/  
 - 🌱 I’m currently learning MERN stack technology  
