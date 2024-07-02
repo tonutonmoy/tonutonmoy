@@ -6,7 +6,7 @@
 
 <img src="https://i.ibb.co/44Dtbht/DSC06842-11zon.jpg" alt="DSC06842-11zon" border="0" height='700' />
 
-"Hello, I'm Showmic Arifen Tonmoy, a web developer with a strong focus on Full-Stack related technologies. I have a deep passion for developing interactive, dynamic web applications that engage and inspire users.I work with both MERN , PRAN and NEXT JS. React's versatility and power to create seamless, user-friendly interfaces have been at the core of my journey.
+"Hello, I'm Showmic Arifen Tonmoy, a web developer with a strong focus on Full-Stack related technologies. I have a deep passion for developing interactive, dynamic web applications that engage and inspire users.I work with both MERN , PERN and NEXT JS. React's versatility and power to create seamless, user-friendly interfaces have been at the core of my journey.
 
 My experience in the field has been marked by a commitment to crafting applications that not only look great but also provide exceptional user experiences. I constantly explore the latest tools and best practices to enhance the performance and efficiency of my projects.
 
