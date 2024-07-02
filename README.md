@@ -19,6 +19,19 @@ Skills: HTML/CSS/Bootstrap/ TAILWIND/ JAVACRIPT/ REACT / FIREBASE/ NODE.JS/ EXPR
  <img src="https://res.cloudinary.com/dfms3ialq/image/upload/v1719654049/sxbzxkj8si1meajcsywo.png" alt="HTML" width="40" height="40"/> 
   <img src="https://res.cloudinary.com/dfms3ialq/image/upload/v1719654056/zeed0rjhzrmh9xgxcwn4.png" alt="CSS" width="40" height="40"/> 
   <img src="http://res.cloudinary.com/dfms3ialq/image/upload/v1719654087/ozqeatuwwscopwwmnzbp.png" alt="Boostrap" width="40" height="40"/> 
+  <img src="http://res.cloudinary.com/dfms3ialq/image/upload/v1719654123/ug2lytqfrqskotumbssx.png" alt="Tailwind" width="40" height="40"/> 
+  <img src="http://res.cloudinary.com/dfms3ialq/image/upload/v1719654150/ckh6tjfftjdw4n4hk5mb.png" alt="JavaScript" width="40" height="40"/> 
+  <img src="http://res.cloudinary.com/dfms3ialq/image/upload/v1719654162/ofasmqsnatxkmgpq0mtz.png" alt="React" width="40" height="40"/> 
+  <img src="http://res.cloudinary.com/dfms3ialq/image/upload/v1719654187/yokfldenpcihl4rvow28.png" alt="Firebase" width="40" height="40"/> 
+  <img src="http://res.cloudinary.com/dfms3ialq/image/upload/v1719654276/khv0wttwcacfpwlu9ii4.png" alt="NodeJS" width="40" height="40"/> 
+  <img src="http://res.cloudinary.com/dfms3ialq/image/upload/v1719654312/qjnuyc5reenn7wqbml3i.png" alt="ExpressJS" width="40" height="40"/> 
+  <img src="http://res.cloudinary.com/dfms3ialq/image/upload/v1719654389/v30bwoukwfuch8ynqttr.png" alt="MongoDB" width="40" height="40"/> 
+  <img src="http://res.cloudinary.com/dfms3ialq/image/upload/v1719654420/qqd6dhgd8ci6gsiiik9k.png" alt="Mongoose" width="40" height="40"/> 
+  <img src="http://res.cloudinary.com/dfms3ialq/image/upload/v1719654477/bje1fozcfw1nn0eu3xrt.png" alt="Typescript" width="40" height="40"/> 
+  <img src="http://res.cloudinary.com/dfms3ialq/image/upload/v1719654496/njx8jsohegugevckrn9j.png" alt="Redux" width="40" height="40"/> 
+  <img src="http://res.cloudinary.com/dfms3ialq/image/upload/v1719654534/ldwflooio3cogbpfxnp0.png" alt="PostgreSQL" width="40" height="40"/> 
+  <img src="http://res.cloudinary.com/dfms3ialq/image/upload/v1719654560/kwnpkg3m01dtohdjk3rn.png" alt="Prosma" width="40" height="40"/> 
+  <img src="http://res.cloudinary.com/dfms3ialq/image/upload/v1719654842/eg0ytwczoxzyakk77rym.png" alt="NextJS" width="40" height="40"/> 
 
 
 
