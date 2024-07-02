@@ -16,8 +16,9 @@ Skills: HTML/CSS/Bootstrap/ TAILWIND/ JAVACRIPT/ REACT / FIREBASE/ NODE.JS/ EXPR
 
 <h3 align="left">Skills:</h3>
 <p align="left"> 
- <img src="https://res.cloudinary.com/dfms3ialq/image/upload/v1719654049/sxbzxkj8si1meajcsywo.png" alt="android" width="40" height="40"/> 
-  <img src="https://res.cloudinary.com/dfms3ialq/image/upload/v1719654056/zeed0rjhzrmh9xgxcwn4.png" alt="android" width="40" height="40"/> 
+ <img src="https://res.cloudinary.com/dfms3ialq/image/upload/v1719654049/sxbzxkj8si1meajcsywo.png" alt="HTML" width="40" height="40"/> 
+  <img src="https://res.cloudinary.com/dfms3ialq/image/upload/v1719654056/zeed0rjhzrmh9xgxcwn4.png" alt="CSS" width="40" height="40"/> 
+  <img src="http://res.cloudinary.com/dfms3ialq/image/upload/v1719654087/ozqeatuwwscopwwmnzbp.png" alt="Boostrap" width="40" height="40"/> 
 
 
 
